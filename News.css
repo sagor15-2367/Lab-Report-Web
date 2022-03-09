@@ -1,0 +1,56 @@
+.body {
+    height: 880px;
+    width: 880px;
+    background-color: rgb(201, 200, 192);
+    margin: 50px;
+    margin-left: 20%;
+}
+
+.icon {
+    height: 40px;
+    width: 40px;
+    background-color: aliceblue;
+}
+
+.heading {
+    text-align: center;
+    margin-left: 70px;
+}
+
+#icon {
+    height: 50px;
+    width: 70px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.not {
+    height: 50px;
+    width: 70px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.Not {
+    margin-right: 500px;
+}
+
+#icons {
+    height: 70px;
+    width: 80%;
+    background-color: aqua;
+    display: flex;
+}
+
+#iconss {
+    height: 50px;
+    width: 70px;
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-left: 80px;
+}

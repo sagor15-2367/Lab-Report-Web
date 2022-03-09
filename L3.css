@@ -1,0 +1,64 @@
+.gall {
+    height: 1050px;
+    width: 850px;
+    background-color: rgb(8, 32, 78);
+    padding: 2px 2px;
+    margin-left: 20%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+}
+
+.gallfst {
+    height: 200px;
+    width: 96%;
+    border-radius: 15px;
+    margin-left: 2%;
+    margin-top: 10px;
+    box-shadow: 3px 2px 9px rgb(175, 160, 160);
+    display: flex;
+}
+
+.gallsec {
+    height: 180px;
+    width: 167px;
+    background-color: rgb(15, 80, 80);
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 14px;
+    box-shadow: 3px 2px 9px rgb(105, 105, 138);
+    display: flex;
+}
+
+#id {
+    margin-left: 20%;
+    color: rgb(57, 78, 97);
+    width: 500px;
+    height: 50px;
+    background-color: rgb(145, 153, 153);
+    height: 50px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1px 1px 1px 1px;
+    box-shadow: 3px 2px 1px 1px rgb(71, 71, 71);
+}
+
+img {
+    width: 156px;
+    height: 178px;
+    border-radius: 15px;
+}
+
+.layout {
+    height: 50px;
+    width: 750px;
+    background-color: aqua;
+    border-radius: 8%;
+}
+
+.btn {
+    height: 50px;
+    width: 750px;
+    background-color: green;
+    text-align: center;
+}

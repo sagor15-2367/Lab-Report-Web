@@ -1,0 +1,131 @@
+.profile {
+    height: 1500px;
+    width: 900px;
+    background-color: rgb(233, 240, 238);
+}
+
+.pa {
+    display: flex;
+}
+
+.p_pic {
+    height: 180px;
+    width: 187px;
+    margin: 15px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(71, 194, 153);
+    border-radius: 10%;
+}
+
+.p {
+    border-radius: 50%;
+}
+
+.about {
+    height: 195px;
+    width: 600px;
+    margin: 10px;
+    margin-top: 22px;
+    border-radius: 10px;
+    background-color: rgb(47, 206, 206);
+}
+
+.txt {
+    margin: 10px;
+}
+
+.box {
+    margin: 10px;
+    height: 50px;
+    width: 880px;
+    border-radius: 10px;
+    background-color: rgb(78, 12, 12);
+    display: flex;
+}
+
+.button {
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 30px;
+    background-color: aqua;
+}
+
+.gallery {
+    height: 625px;
+    width: 880px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: chartreuse;
+    border-radius: 10px;
+}
+
+.picc {
+    height: 200px;
+    width: 860px;
+    margin: 5px;
+    margin-top: -5px;
+    margin-left: 10px;
+    background-color: rgb(165, 226, 104);
+    border-radius: 5;
+    box-shadow: 10px;
+}
+
+.piccc {
+    height: 180px;
+    width: 187px;
+    margin: 15px;
+    margin-top: 7px;
+    margin-left: 10px;
+    background-color: rgb(71, 194, 153);
+    border-radius: 10%;
+}
+
+.abc {
+    height: 200px;
+    width: 860px;
+    margin: 6px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.ed {
+    height: 200px;
+    width: 890px;
+    background-color: rgb(169, 206, 194);
+    border-radius: 10px;
+}
+
+.edu {
+    margin: 5px;
+}
+
+table,
+tr,
+td {
+    border: 2px solid;
+    margin: 15px;
+}
+
+.contact {
+    height: 370px;
+    width: 890px;
+    margin-top: 8px;
+    background-color: rgb(59, 161, 161);
+    border-radius: 10px;
+}
+
+.form {
+    height: 300px;
+    width: 400px;
+    background-color: azure;
+    margin: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.formm {
+    margin: 10px;
+    margin-top: 5px;
+}
