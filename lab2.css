@@ -1,0 +1,49 @@
+.body{
+    height: 900px;
+    width: 800px;
+    background-color: rgb(146, 224, 224);
+    border-radius: 10px;
+}
+.pic{
+    height: 150px;
+    width: 150px;
+    background-color: aliceblue;
+    border-radius: 50%; 
+}
+.p{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.txt{
+    margin-left: 180px;
+    margin-top: -22%;   
+}
+.box{
+    height: 30px;
+    width: 800px;
+    background-color: aliceblue;
+    margin-top: 20%;
+    border-radius: 10px;
+    box-shadow: 3px 5px 3px;
+}
+.btn{
+    margin-left: 12.5%;
+    margin-top: .6%;
+    border-radius: 2%;    
+}
+.achbox{
+    height: auto;
+    width: auto;
+}
+.ach{
+    text-align: center;
+    text-shadow: 1px 2px 1px ;
+   
+}
+.con{
+    text-align: center;
+    text-shadow: 1px 2px 1px;
+}
+.from{
+    text-align: center;
+}

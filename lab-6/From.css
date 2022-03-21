@@ -1,0 +1,25 @@
+.body{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(243, 239, 232);
+    margin-top: 100px;
+    margin-left: 20%;
+    flex-direction: row;
+    border-radius: 7%;
+
+}
+.txt{
+    text-align: center;
+    font-size: 30px;
+}
+.formbody{
+    height: 300px;
+    width: 550px;
+    text-align: center;
+    background-color: rgba(174, 216, 216, 0.801);
+    font-weight: 900;
+    box-shadow: 1px 2px 13px rgb(90, 45, 45);
+    margin-left: 25px;
+    margin-top: 20px;
+    border-radius: 5%;
+}
